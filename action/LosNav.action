@@ -1,0 +1,4 @@
+los_nav_msgs/Mission mission_msgs
+---
+---
+geometry_msgs/PoseStamped base_position
